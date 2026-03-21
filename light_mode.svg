@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="450" y="30">┌──────────────────jacks@github.com──────────────────┐</tspan>
 <tspan x="450" y="50"><tspan class="cc"/><tspan class="key"> OS</tspan>:<tspan class="cc"/>                         <tspan class="value">Arch Linux | Windows 11</tspan></tspan>
-<tspan x="450" y="70"><tspan class="cc"/><tspan class="key">│  ├ Uptime</tspan>:<tspan class="cc" id="age_data_dots">             </tspan><tspan class="value" id="age_data">23 years, 8 months, 23 days</tspan></tspan>
+<tspan x="450" y="70"><tspan class="cc"/><tspan class="key">│  ├ Uptime</tspan>:<tspan class="cc" id="age_data_dots">             </tspan><tspan class="value" id="age_data">23 years, 8 months, 24 days</tspan></tspan>
 <tspan x="450" y="90"><tspan class="cc"/><tspan class="key">│  ├ Host</tspan>:<tspan class="cc">                           </tspan><tspan class="value">Cyberia Systems</tspan></tspan>
 <tspan x="450" y="110"><tspan class="cc"/><tspan class="key">│  ├ Kernel</tspan>:<tspan class="cc">         </tspan><tspan class="value">Audio Engineer | Logistics Lead</tspan></tspan>
 <tspan x="450" y="130"><tspan class="cc"/><tspan class="key">│  ├󰂮 IDEs</tspan>:<tspan class="cc">                          </tspan><tspan class="value">LazyVim | VSCode</tspan></tspan>
