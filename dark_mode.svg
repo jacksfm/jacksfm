@@ -55,7 +55,7 @@ text, tspan {white-space: pre;}
 <tspan x="450" y="70"><tspan class="cc"/><tspan class="key">│  ├ Uptime</tspan>:<tspan class="cc" id="age_data_dots">              </tspan><tspan class="value" id="age_data">23 years, 9 months, 6 days</tspan></tspan>
 <tspan x="450" y="90"><tspan class="cc"/><tspan class="key">│  ├ Host</tspan>:<tspan class="cc">                           </tspan><tspan class="value">Cyberia Systems</tspan></tspan>
 <tspan x="450" y="110"><tspan class="cc"/><tspan class="key">│  ├ Kernel</tspan>:<tspan class="cc">         </tspan><tspan class="value">Audio Engineer | Logistics Lead</tspan></tspan>
-<tspan x="450" y="130"><tspan class="cc"/><tspan class="key">│  ├󰂮 IDEs</tspan>:<tspan class="cc">                          </tspan><tspan class="value">LazyVim | VSCode</tspan></tspan>
+<tspan x="450" y="130"><tspan class="cc"/><tspan class="key">│  ├󰂮 IDE</tspan>:<tspan class="cc">                                     </tspan><tspan class="value">neovim</tspan></tspan>
 <tspan x="450" y="150"><tspan class="cc"/><tspan class="key">└  └󱍙 DAWs</tspan>:<tspan class="cc">               </tspan><tspan class="value">Ableton Live 12 | Renoise 3</tspan></tspan>
 <tspan x="450" y="170">└────────────────────────────────────────────────────┘</tspan>
 <tspan x="450" y="190">┌─────────────────────Attributes─────────────────────┐</tspan>
